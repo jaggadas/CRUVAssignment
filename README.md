@@ -1,6 +1,6 @@
 # cruv_assignment
 
-A new Flutter project.
+A Flutter Project created for CRUV as an internship selection assignment.
 
 ## Getting Started
 
